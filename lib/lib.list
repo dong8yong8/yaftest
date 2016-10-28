@@ -1,0 +1,48 @@
+1.	php-yaf
+	https://github.com/laruence/php-yaf
+2.	Sow
+	https://github.com/techcms/sow.bug
+3.	Xhprof
+	https://github.com/facebook/xhprof
+4.	Respect/Validation
+	https://github.com/Respect/Validation
+5.	FirePHP
+	https://github.com/firephp/firephp-core
+6.	Imagine
+	https://github.com/avalanche123/Imagine
+7.	Predis
+	https://github.com/nrk/predis
+8.  Upload
+  https://github.com/codeguy/Upload
+9. Monolog
+  https://github.com/Seldaek/monolog
+10. Guzzle
+  https://github.com/guzzle/guzzle
+12. php-fig / fig-standards
+  https://github.com/php-fig/fig-standards
+
+
+
+   web_lib_v3
+	+ Assetic	用于合并和减小CSS/JS资源
+	+ FirePHP	代码调试工具	未使用
+	+ Guzzle	curl处理工具
+	+ Imagine	图像处理库	未使用
+	+ Monolog	日志记录	未使用
+	+ Predis	Predis		未使用
+	+ Psr		
+	+ Respect	输入验证引擎
+	+ Solarium			未使用
+	+ Sow		yaf框架基础
+	  |+ log	
+	  |+ mongo	mongo单例
+	  |+ mysql	mysql单例    第二版与第三版的差异在此，db.php 64行，mysql配置的获取
+	  |+ redis	redis单例    redis配置的获取与第二版也有差异
+	  |+ sys	基础代码
+	  |+ xhprof	代码优化供给
+	  |- bug.php	重构的函数
+	+ Symfony			未使用
+	+ Upload        处理文件上传	未使用
+	+ xhprof        代码优化 在dev模式下使用
+	+ Zend          zend framework	未使用
+	- lib.list      详细的代码在Github连接
