@@ -6,4 +6,6 @@
 		}
 		public function indexAction() {
 		}
+		public function articleAction() {
+		}
 	}
